@@ -14,5 +14,6 @@
 8.1. git branch название ветки
 9. git checkout develop премещение
 10. git pull origin main
-
+11. git branch -d [branch's name]
+11. git merge
 
