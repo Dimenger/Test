@@ -9,3 +9,10 @@
 
 6. git remote -v
 7. git branch 'получить название ветки'
+
+8. git branch 
+8.1. git branch название ветки
+9. git checkout develop
+
+
+
