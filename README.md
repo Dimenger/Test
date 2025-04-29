@@ -12,7 +12,7 @@
 
 8. git branch 
 8.1. git branch название ветки
-9. git checkout develop
-
+9. git checkout develop премещение
+10. git pull origin main
 
 
